@@ -14,9 +14,9 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 # My Hobbies
 
-### Listing Music while coding.
+### Listening Music while coding.
 
-Listen to my playlist 
+<a href="https://open.spotify.com/playlist/0pRoPZeoaPAwZfb0NBbq9S" target="_blank" ><img src="https://github.com/Uyadav207/Uyadav207/blob/master/Assets/ultimatetax.png" height="200" width="200" style=" radius=20; " alt="playlist"/></a> 
 
 # ✍ My Latest Blog
 
