@@ -12,6 +12,12 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 - Creating something special related to Data structures and Algorithms. `SPOILER ALERT` ⛔
 
+# My Hobbies
+
+### Listing Music while coding.
+
+Listen to my playlist 
+
 # ✍ My Latest Blog
 
 ![Blog1](https://github.com/Uyadav207/Uyadav207/blob/master/Assets/postlatest.png)
