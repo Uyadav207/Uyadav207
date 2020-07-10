@@ -12,11 +12,15 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 # ⚛ My React Applications
 
+## Relaxify- A Mini spotify Player
+
 ![Relaxify](https://github.com/Uyadav207/Uyadav207/blob/master/Assets/relaxify.png)
 
 ### Description : Relaxify is a Spotify music player. Build using React | Node.js | Spotify Playback SDK that allows the user to connect to any Spotify device and play the music on web.
 
 ### Tech Stack : **`React`** | **`Spotify-SDK`** | **`Web-API`** | **`Node.js`**
+
+## Covid-19 Realtime Stats Counts
 
 ![Covid](https://github.com/Uyadav207/Uyadav207/blob/master/Assets/covid.png)
 
