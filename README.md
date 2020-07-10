@@ -2,6 +2,12 @@
 
 Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in Computer Science and has keen interest in web and mobile technologies using the JavaScript ecosystem. I am also very much involved in writing technical Blogs and loves to write about the stuff related Js ecosystem etc. on [DEV Community](https://dev.to/uyadav207)
 
+🎯 Find me Interesting? 
+
+Drop me a mail 💌 [@developer.utkarsh.work@gmail.com](mailto:developer.utkarsh.work@gmail.com)
+
+---
+
 ## Organizing Open source Event
 
 - [CODE CAMP 1.0 - A virtual Hackathon](https://codecamphackathon.netlify.app) 
@@ -12,3 +18,5 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 - [dev.to](https://dev.to/uyadav207)
 - [Instagram](https://www.instagram.com/utkarsh_developer/)
 - [Telegram](https://t.me/utkarshyadav207)
+
+---
