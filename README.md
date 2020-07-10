@@ -10,6 +10,20 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 - Contributing to my projects and doing open-source projects. 🤝
 
+# ⚛ My React Applications
+
+![Relaxify](https://github.com/Uyadav207/Uyadav207/blob/master/Assets/relaxify.png)
+
+### Description : Relaxify is a Spotify music player. Build using React | Node.js | Spotify Playback SDK that allows the user to connect to any Spotify device and play the music on web.
+
+### Tech Stack : **`React`** | **`Spotify-SDK`** | **`Web-API`** | **`Node.js`**
+
+![Covid](https://github.com/Uyadav207/Uyadav207/blob/master/Assets/covid.png)
+
+### Description : Covid-19 Stats for number of people got Infected, the death raise per day and the number of people recovered. used chart.js for graphs.
+
+### Tech Stack : **`React`** | **`API`** | **`CSS`** | **`Version-Control`**
+
 # ✍ My Latest Blog
 
 Read All my Blogs on [DEV Community](https://dev.to/uyadav207)
