@@ -8,17 +8,25 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 * <a Align="left" href="https://www.buymeacoffee.com/Utkarshjsdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="100" height="20" /></a>
 
----
+Open source Teams/Organizations I'm in.
 
-## Any Project you want me a part of ?
+- [Team Xenox](https://teamxenox.com/)
 
-* 👀 Ping me on [Telegram](https://t.me/utkarshyadav207)
-
-* 💌 [@developer.utkarsh.work@gmail.com](mailto:developer.utkarsh.work@gmail.com)
-
-## Organizing Open source Event
+- [TeamTanay](/)
 
 - [CODE CAMP 1.0 - A virtual Hackathon](https://codecamphackathon.netlify.app) 
+
+Work
+
+- 📌 Repository : **`49`**
+
+- 📌 Pull Requests : **`15`**
+
+- 📌 Major Contributions : [**`ISTMNCR`**](https://github.com/ISTESRMNCR/)  |  [**`GitHub`**](https://github.com/education/) | [**`TeamTanay`**](https://github.com/tanaypratap/)
+
+- 📌 I can help you in : **`Web Applications`** | **`Android`** | **`IOS`** | **`Mordern PWAs Website`**
+
+- 📌 Tech Stack : **`ReactJS`** | **`GatsbyJS`** | **`ReactNative`** | **`NodeJS`** | **`ExpresJS`**
 
 Follow me on :
 
