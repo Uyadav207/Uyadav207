@@ -3,9 +3,14 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 ![Twitter Follow](https://img.shields.io/twitter/follow/utkarsh_js_dev?style=for-the-badge)
 
 ---
-About Me 
+
+My Stats 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Uyadav207&show_icons=true&theme=radical)
+
+Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyadav207)](https://github.com/Uyadav207)
 
 Follow me on :
 
