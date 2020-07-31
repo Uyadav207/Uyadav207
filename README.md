@@ -5,7 +5,7 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 ---
 About Me 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Uyadav207)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Uyadav207&show_icons=true&theme=radical)
 
 Follow me on :
 
