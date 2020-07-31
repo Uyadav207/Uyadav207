@@ -12,6 +12,8 @@ Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyadav207)](https://github.com/Uyadav207)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uyadav207&repo=CODE-CAMP-2k20)](https://github.com/Uyadav207)
+
 Follow me on :
 
 [Twitter](https://twitter.com/utkarsh_js_dev) | [dev.to](https://dev.to/uyadav207) | [Instagram](https://www.instagram.com/utkarsh_developer/) | [Telegram](https://t.me/utkarshyadav207)
