@@ -3,12 +3,6 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 ![Twitter Follow](https://img.shields.io/twitter/follow/utkarsh_js_dev?style=for-the-badge)
 
 ---
-
-## Tech Stack
-
-
-
-
 About Me 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Uyadav207)
