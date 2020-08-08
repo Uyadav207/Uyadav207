@@ -8,10 +8,6 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 ---
 
-![Utkarsh_Github_status](https://github-readme-stats.vercel.app/api?username=Uyadav207)
-
----
-
 [`Twitter`](https://twitter.com/utkarsh_js_dev) | [`dev.to`](https://dev.to/uyadav207) | [`Instagram`](https://www.instagram.com/utkarsh_developer/) | [`Telegram`](https://t.me/utkarshyadav207)
 
 ---
