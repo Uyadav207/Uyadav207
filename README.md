@@ -8,7 +8,7 @@ Hey there! 👋 I’m Utkarsh Yadav, A student, developer with a background in C
 
 ---
 
-![Utkarsh_Github_status](https://github-readme-stats.vercel.app/api?username=Uyadav207&show_icons=true&theme=radical)
+![Utkarsh_Github_status](https://github-readme-stats.vercel.app/api?username=Uyadav207)
 
 ---
 
