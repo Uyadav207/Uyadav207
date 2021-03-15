@@ -14,7 +14,7 @@ A student, developer with a background in Computer Science and has keen interest
 
 ---
 
-[`Twitter`](https://twitter.com/utkarsh_js_dev) | [`dev.to`](https://dev.to/uyadav207) | [`Instagram`](https://www.instagram.com/utkarsh_developer/) | [`Telegram`](https://t.me/utkarshyadav207)
+[`Twitter`](https://twitter.com/UYadavDEV) | [`dev.to`](https://dev.to/uyadav207) | [`Instagram`](https://www.instagram.com/utkarsh_developer/) | [`Telegram`](https://t.me/utkarshyadav207)
 
 ---
 Drop me a mail 💌 @[developer.utkarsh.work@gmail.com](mailto:developer.utkarsh.work@gmail.com)
