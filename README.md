@@ -8,7 +8,7 @@ A student, developer with a background in Computer Science and has keen interest
 
 💪  Actively Contributing to Open source Projects.
 
-🧑‍💻 Maintainer of github organization: [@ISTESRMNCR](https://github.com/ISTESRMNCR)
+🧑‍💻 OSS Contributor since 2020.
 
 🍀  Currently in MERN Stack.
 
