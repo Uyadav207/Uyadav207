@@ -17,4 +17,10 @@ A student, developer with a background in Computer Science and has keen interest
 [`Twitter`](https://twitter.com/UYadavDEV) | [`dev.to`](https://dev.to/uyadav207) | [`Instagram`](https://www.instagram.com/utkarsh_developer/) | [`Telegram`](https://t.me/utkarshyadav207)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Uyadav207)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+---
 Drop me a mail 💌 @[developer.utkarsh.work@gmail.com](mailto:developer.utkarsh.work@gmail.com)
