@@ -1,20 +1,28 @@
-# Hi ! I am Utkarsh,
+<h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
+<h3 align="center">M.Sc. Web Engineering Student in Technische Universität Chemnitz, and a Software Developer.</h3>
 
-A student, developer with a background in Computer Science and has keen interest in web and mobile technologies using the JavaScript ecosystem. I am also very much involved in writing technical Blogs and loves to write about the stuff related Js ecosystem etc.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20views&color=0e75b6&style=flat" alt="Uyadav207" /> </p>
 
----
+- 🔭 I’m currently working on **Next.js, React.js, Node.js**
 
-📢  Pronounce ( He/His )
+- 🌱 I’m currently learning **How to build application using Nextjs**
 
-💪  Actively Contributing to Open source Projects.
+- 👨‍💻 All of my projects are available at [github]()
 
-🧑‍💻 OSS Contributor since 2020.
+- 💬 Ask me about **React, Next, JavaScript, Designing UI, Node.js**
 
-🍀  Currently in MERN Stack.
+- 📫 How to reach me **utkarshyadav.tuc@gmail.com**
 
----
+- 📄 Know about my experiences [CV]()
 
-[`Twitter`](https://twitter.com/UYadavDEV) | [`dev.to`](https://dev.to/uyadav207) | [`Instagram`](https://www.instagram.com/utkarsh_developer/) | [`Telegram`](https://t.me/utkarshyadav207)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yadavutkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavutkarsh" height="30" width="40" /></a>
+</p>
 
----
-Drop me a mail 💌 @[developer.utkarsh.work@gmail.com](mailto:yadavutkarsh207@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uyadav207&show_icons=true&locale=en&layout=compact" alt="Uyadav207" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uyadav207&show_icons=true&locale=en" alt="Uyadav207" /></p>
