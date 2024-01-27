@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20views&color=0e75b6&style=flat" alt="Uyadav207" /> </p>
 
-- 🔭 I’m currently working on **Next.js, React.js, Node.js**
+- 🔭 I’m currently working on **Next.js, TypeScript, Test Driven Development (TDD)s**
 
 - 🌱 I’m currently learning **How to build application using Nextjs**
 
