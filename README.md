@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **How to build application using Nextjs**
 
-- 👨‍💻 All of my projects are available at [github]()
+- 👨‍💻 All of my projects are available at [Portfolio](https://utkarshyadav.vercel.app/#projects)
 
 - 💬 Ask me about **React, Next, JavaScript, Designing UI, Node.js**
 
 - 📫 How to reach me **utkarshyadav.tuc@gmail.com**
 
-- 📄 Know about my experiences [CV]()
+- 📄 Know about my experiences [CV](https://utkarshyadav.vercel.app/Utkarsh_Yadav_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
