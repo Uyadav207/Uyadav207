@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Utkarsh
+# Hey, I'm Utkarsh 
 
 ### Full-Stack Engineer — I build products that scale.
 
@@ -79,40 +79,6 @@ AWS • GCP • Docker • Kubernetes
 <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,vercel,github" />
 
 </div>
-
----
-
-<div align="center">
-
-## Featured Projects
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🌐 Uy-Verse**<br/>
-Personal portfolio with Next.js<br/>and motion design<br/><br/>
-[View Live →](https://uy-verse.vercel.app/)
-
-</td>
-<td align="center" width="33%">
-
-**⚙️ Microservices Platform**<br/>
-Event-driven architecture with<br/>Kafka & container orchestration
-
-</td>
-<td align="center" width="33%">
-
-**🤖 AI Code Assistant**<br/>
-LLM-powered code review<br/>using LangChain + OpenAI
-
-</td>
-</tr>
-</table>
 
 ---
 
