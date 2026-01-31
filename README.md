@@ -1,94 +1,137 @@
-# 🚀 Hey, I'm **Utkarsh** — I Build Products That Scale From Zero → Millions
+<div align="center">
+
+# Hey, I'm Utkarsh
+
+### Full-Stack Engineer — I build products that scale.
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Uyadav207)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## What I Do
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uyadav207&label=Visitors&color=ff2d75&style=flat-square" />
+I specialize in taking products from <b>concept to production</b> — clean architecture,<br/>
+solid performance, and systems that don't need to be rewritten in 6 months.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-# ⚡ I’m the Engineer Startups Call When They Need **Speed, Reliability & Zero Bullshit Execution**
+**Full-Stack Development**<br/>
+Next.js • React • Node.js • TypeScript
 
-I specialize in taking ideas from **Figma → Production** with clean architecture, high performance, and ruthless efficiency.  
-I love early-stage chaos, building fast, breaking things *responsibly*, and shipping **real products** that feel good and scale hard.
+</td>
+<td align="center" width="50%">
 
-### What I’m really good at:
-- ⚛️ **Next.js / React** with buttery-smooth UX, optimized rendering, and component architecture that doesn’t implode at scale  
-- 🧱 **Node.js + TypeScript** backends that are clean, predictable, and stress-tested  
-- 🔄 **Microservices & Event-Driven Systems** with Kafka/RabbitMQ  
-- ⚙️ **REST / GraphQL** APIs engineered for speed & clarity  
-- 🛢️ Databases that don’t choke under load (**Postgres, MongoDB, Redis**)  
-- 🧪 **TDD** so your product doesn’t blow up in production  
-- ☁️ **AWS / GCP / Docker / K8s** for deployments that Just Work™  
-- 🤖 **AI engineering** using LangChain, RAG, vector stores & LLM integration  
+**AI & LLM Integration**<br/>
+RAG Pipelines • LangChain • Vector Stores
 
-I believe in **shipping fast**, **keeping things simple**, and **optimizing when it actually matters** — not before.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
----
+**Distributed Systems**<br/>
+Kafka • RabbitMQ • Event-Driven Architecture
 
-# 🧨 Tech Stack That Pays the Bills
+</td>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,express,kafka,rabbitmq,ai,postgres,mongodb,redis,supabase,prisma,aws,gcp,docker,kubernetes,vercel,githubactions,gitlab,tailwind" />
-</p>
+**Cloud & DevOps**<br/>
+AWS • GCP • Docker • Kubernetes
 
+</td>
+</tr>
+</table>
 
-
----
-
-# 🚀 Signature Projects (The Ones I’m Proud Of)
-
-## 🔥 **Uy-Verse** — My Digital Playground  
-Modern portfolio built with Next.js + motion design + SEO optimizations.  
-👉 **Live:** https://uy-verse.vercel.app/
-
----
-
-## ⚙️ **Distributed Microservices Architecture**  
-Kafka-based event streaming, API gateway, authentication, caching, and containerized deployments — built like a real production system, not a tutorial toy.
-
----
-
-## 🤖 **AI Coding Assistant**  
-LLM-driven code reviewer, repository Q&A engine & smart automation powered by LangChain + OpenAI.  
-Essentially: a dev teammate that doesn’t argue.
-
----
-
-# 📊 My GitHub Performance (aka Proof I Don’t Just Talk)
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uyadav207&show_icons=true&theme=radical&border_radius=10" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=Uyadav207&theme=radical&border_radius=10" width="47%"/>
-</p>
-
----
-
-# 🧩 What I Bring to Startups  
-- I move **fast** without breaking scalability  
-- I design systems you don’t have to replace 6 months later  
-- I collaborate tightly with founders, PMs & designers  
-- I care deeply about the **user experience**  
-- I’ll own problems end-to-end — no hand-holding needed  
-
-If you're building something ambitious, messy, or time-critical, I thrive in exactly that zone.
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yadavutkarsh"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:utkarsh.yadav.hire@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://twitter.com/Uyadav207"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://uy-verse.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
+<i>I enjoy early-stage work where speed matters, but I build things properly the first time.</i>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" />
-</p>
+<div align="center">
+
+## Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,vercel,github" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Featured Projects
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🌐 Uy-Verse**<br/>
+Personal portfolio with Next.js<br/>and motion design<br/><br/>
+[View Live →](https://uy-verse.vercel.app/)
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Microservices Platform**<br/>
+Event-driven architecture with<br/>Kafka & container orchestration
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI Code Assistant**<br/>
+LLM-powered code review<br/>using LangChain + OpenAI
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadavutkarsh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.yadav.hire@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uy-verse.vercel.app)
+
+<br/>
+
+---
+
+<br/>
+
+*Building things that matter, one commit at a time.*
+
+</div>
