@@ -1,76 +1,71 @@
 <div align="center">
 
-# Hey, I'm Utkarsh 
+# Hey 👋🏼 I’m Utkarsh Yadav
 
-### Full-Stack Engineer — I build products that scale.
-
-<br/>
+**Full-Stack Engineer • Systems Builder • Early-Stage Problem Solver**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Uyadav207)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github.com/Uyadav207/Uyadav207/blob/master/Githubbanner.png" width="100%" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## What I Do
-
-</div>
-
 <p align="center">
-I specialize in taking products from <b>concept to production</b> — clean architecture,<br/>
-solid performance, and systems that don't need to be rewritten in 6 months.
+I build <b>production-ready systems</b> from day one —  
+fast to ship, cleanly architected, and designed to scale without rewrites.
 </p>
 
-<br/>
+<p align="center">
+<i>Best suited for early-stage startups, founders, and teams that value speed <b>and</b> correctness.</i>
+</p>
+
+---
+
+## 🧠 What I Do
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-**Full-Stack Development**<br/>
-Next.js • React • Node.js • TypeScript
+### ⚡ Full-Stack Engineering  
+Next.js • React • Node.js • TypeScript  
+Scalable APIs, clean UI, maintainable codebases
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-**AI & LLM Integration**<br/>
-RAG Pipelines • LangChain • Vector Stores
+### 🤖 AI & LLM Systems  
+RAG Pipelines • LangChain • Vector Databases  
+LLMs integrated into real products, not demos
 
 </td>
 </tr>
-<tr>
-<td align="center" width="50%">
 
-**Distributed Systems**<br/>
-Kafka • RabbitMQ • Event-Driven Architecture
+<tr>
+<td width="50%" align="center">
+
+### 🌐 Distributed Systems  
+Kafka • RabbitMQ • Event-Driven Architecture  
+High-throughput, fault-tolerant backends
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-**Cloud & DevOps**<br/>
-AWS • GCP • Docker • Kubernetes
+### ☁️ Cloud & DevOps  
+AWS • GCP • Docker • Kubernetes  
+Infrastructure that scales without drama
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<p align="center">
-<i>I enjoy early-stage work where speed matters, but I build things properly the first time.</i>
-</p>
-
 ---
 
+## 🛠 Tech Stack
+
 <div align="center">
-
-## Tech Stack
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express" />
 <br/>
@@ -82,22 +77,27 @@ AWS • GCP • Docker • Kubernetes
 
 ---
 
+## 🚀 How I Think
+
+- I optimize for **long-term velocity**, not quick hacks  
+- I care deeply about **system design & trade-offs**  
+- I write code that teammates actually enjoy maintaining  
+- I ship fast — but never sloppy
+
+---
+
+## 🤝 Let’s Connect
+
 <div align="center">
-
-## Let's Connect
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadavutkarsh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.yadav.hire@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uy-verse.vercel.app)
 
-<br/>
+</div>
 
 ---
 
-<br/>
-
-*Building things that matter, one commit at a time.*
-
-</div>
+<p align="center">
+<b>Building things that matter — one commit at a time.</b>
+</p>
