@@ -2,10 +2,6 @@
 
 # Hey 👋🏼 I’m Utkarsh Yadav
 
-**Full-Stack Engineer • Systems Builder • Early-Stage Problem Solver**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Uyadav207)
-
 <img src="https://github.com/Uyadav207/Uyadav207/blob/master/Githubbanner.png" width="100%" />
 
 </div>
@@ -20,6 +16,13 @@ fast to ship, cleanly architected, and designed to scale without rewrites.
 <p align="center">
 <i>Best suited for early-stage startups, founders, and teams that value speed <b>and</b> correctness.</i>
 </p>
+
+<div align="center">
+
+**Full-Stack Engineer • Systems Builder • Early-Stage Problem Solver**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Uyadav207)
+</div>
 
 ---
 
