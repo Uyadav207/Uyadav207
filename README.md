@@ -1,106 +1,36 @@
-<div align="center">
+# Hi I'm Utkarsh
 
-# Hey 👋🏼 I’m Utkarsh Yadav
+📍 Germany · ✨ AI Fullstack Engineer · 🚀 Building with AI for AI
 
-<img src="https://github.com/Uyadav207/Uyadav207/blob/master/Githubbanner.png" width="100%" />
+## Building
 
-</div>
+- [GenZ](https://github.com/Uyadav207/genz/) — Multi-agent AI workspace with real-time streaming chat, live voice over WebSocket, and RAG-backed personal knowledge.
 
----
+- [HR-Copilot](https://github.com/Uyadav207/HR-Copilot) — AI hiring intelligence platform with resume parsing, explainable candidate scoring, and recruiting workflow automation.
 
-<p align="center">
-I build <b>production-ready systems</b> from day one —  
-fast to ship, cleanly architected, and designed to scale without rewrites.
-</p>
+- [CyberGPT](https://github.com/Uyadav207/CyberGPT) — Knowledge-graph grounded cybersecurity copilot for explainable threat analysis and SOC-ready incident workflows.
 
-<p align="center">
-<i>Best suited for early-stage startups, founders, and teams that value speed <b>and</b> correctness.</i>
-</p>
+## Projects
 
-<div align="center">
+- [MIRA-AI](https://github.com/Uyadav207/mira.denkminds) — Cyber risk intelligence assistant with CVE-aware analysis and human-in-the-loop validation.
 
-**Full-Stack Engineer • Systems Builder • Early-Stage Problem Solver**
+- [CityLink Chemnitz](https://github.com/Uyadav207/CityLink-Chemnitz) — Smart urban navigation platform using live geospatial data and dynamic routing for city services.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Uyadav207&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Uyadav207)
-</div>
+- [Medicare](https://github.com/Uyadav207/Online-Medicine-Store) — Digital pharmacy platform with secure transactions, real-time medicine inventory, and scalable backend infrastructure.
 
----
+## Writing
 
-## 🧠 What I Do
+Read at [Dev.to Community](https://dev.to/iamutkarshy)
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+## Tech
 
-### ⚡ Full-Stack Engineering  
-Next.js • React • Node.js • TypeScript  
-Scalable APIs, clean UI, maintainable codebases
+TypeScript · React · Next.js · Node.js · PostgreSQL · Redis · Kafka · Docker · Kubernetes · AWS
 
-</td>
-<td width="50%" align="center">
 
-### 🤖 AI & LLM Systems  
-RAG Pipelines • LangChain • Vector Databases  
-LLMs integrated into real products, not demos
+## GitHub activity
 
-</td>
-</tr>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uyadav207&theme=github-compact&hide_border=true&area=true)
 
-<tr>
-<td width="50%" align="center">
+----
 
-### 🌐 Distributed Systems  
-Kafka • RabbitMQ • Event-Driven Architecture  
-High-throughput, fault-tolerant backends
-
-</td>
-<td width="50%" align="center">
-
-### ☁️ Cloud & DevOps  
-AWS • GCP • Docker • Kubernetes  
-Infrastructure that scales without drama
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,vercel,github" />
-
-</div>
-
----
-
-## 🚀 How I Think
-
-- I optimize for **long-term velocity**, not quick hacks  
-- I care deeply about **system design & trade-offs**  
-- I write code that teammates actually enjoy maintaining  
-- I ship fast — but never sloppy
-
----
-
-## 🤝 Let’s Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadavutkarsh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh.yadav.hire@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uy-verse.vercel.app)
-
-</div>
-
----
-
-<p align="center">
-<b>Building things that matter — one commit at a time.</b>
-</p>
+[linkedin](https://linkedin.com/in/yadavutkarsh) · [Website](https://utkarshyadav.me) · [email](mailto:utkarsh.yadav.hire@gmail.com)
